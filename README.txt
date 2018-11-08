@@ -1,0 +1,1 @@
+Run as normal, must include lambda module available for swipl. Run by using "cb_puzzle."
